@@ -1,0 +1,28 @@
+{
+  "trainSearch": {
+    "title": "Select Train",
+    "noSearchParams": "Please select a route to search",
+    "noResults": "No trains found for the selected criteria",
+    "sortBy": {
+      "departure": "Departure time",
+      "duration": "Duration",
+      "price": "Price"
+    },
+    "features": {
+      "restaurant": "Restaurant car",
+      "ac": "Air conditioning",
+      "wifi": "Wi-Fi",
+      "accessible": "Wheelchair accessible"
+    },
+    "transfers": "{{count}} transfers",
+    "delay": "{{minutes}} min delay",
+    "stops": "Stops",
+    "summary": "Search Summary"
+  },
+  "common": {
+    "sortBy": "Sort by",
+    "details": "Details",
+    "select": "Select",
+    "currency": "BGN"
+  }
+} 
